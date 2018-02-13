@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Skeleton
+  - SmallHeal
+  - Coin
+  - Spring
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middleground
+    uniqueID: 7686949
+    locked: 0
+  - name: GroundBackground
+    uniqueID: 1075906235
+    locked: 0
+  - name: Ground
+    uniqueID: 2258392371
+    locked: 0
+  - name: Enemies
+    uniqueID: 943916779
+    locked: 0
+  - name: Player
+    uniqueID: 850371509
+    locked: 0
+  - name: InFrontOfPlayer
+    uniqueID: 472940557
+    locked: 0
